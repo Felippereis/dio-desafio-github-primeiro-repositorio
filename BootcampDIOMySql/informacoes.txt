@@ -1,0 +1,17 @@
+Modelo relacional criado em 1970
+- Algebra
+- Relações
+- TAF para armazenamento
+- Transparencia
+
+
+LDD - Linguagem de Definição de Dados.
+Comando traduzidos pelo processador.
+
+LMD - Linguagem de Modificação de Dados.
+
+Administrador
+-> Gerenciar Recursos
+-> Orquestração
+-> Autorização de Acesso.
+
